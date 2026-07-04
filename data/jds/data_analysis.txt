@@ -1,0 +1,22 @@
+Job Title: Data Scientist
+Location: New York, NY (Hybrid)
+Company: FinTech Vanguard
+
+About the Role:
+FinTech Vanguard is leveraging machine learning to redefine personal finance. We are seeking a Data Scientist to join our Risk & Fraud Analytics team. In this role, you will build predictive models to detect fraudulent transactions and optimize our credit scoring algorithms.
+
+Key Responsibilities:
+- Clean, analyze, and interpret large, complex datasets to uncover hidden patterns.
+- Develop, train, and deploy machine learning models into production.
+- Define key business metrics and design robust A/B tests to validate product features.
+- Present data-driven insights to executive stakeholders.
+
+Qualifications:
+- 3 to 5 years of experience working as a Data Scientist or Data Analyst, preferably in fintech or banking.
+- Master’s or Bachelor’s degree in Data Science, Computer Science, Statistics, or a related quantitative field.
+
+Technical Toolkit:
+- Programming: Python (Pandas, NumPy, Scikit-Learn), R
+- Data Querying: Advanced SQL (Window functions, query optimization)
+- Visualization: Tableau, PowerBI
+- ML Deployment: MLflow, Kubernetes
