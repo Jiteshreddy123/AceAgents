@@ -1,0 +1,29 @@
+REHAN SHAIKH
+Hyderabad, India | +91 9334455667 | rehan.s@cloudops.io
+
+PROFESSIONAL SUMMARY
+Customer Success Engineer with 4 years of experience optimizing technical onboarding, 
+resolving enterprise-level API integrations, and managing critical client escalations. 
+Expert at bridging communication gaps between enterprise stakeholders and core dev teams.
+
+TECHNICAL SKILLS
+- Systems & Platforms: Salesforce CRM, Zendesk Enterprise, Jira Service Desk
+- Data & Integration: SQL, Postman, REST API Troubleshooting, JSON
+- Process Automation: Zapier, Hubspot Workflows, Excel Macros
+
+PROFESSIONAL EXPERIENCE
+Technical Success Manager | Enterprise SaaS Labs, Hyderabad | 2022 – Present
+- Managed onboarding technical workflows for 40+ high-value corporate accounts.
+- Reduced enterprise onboarding churn by resolving complex web-hook configurations.
+
+PROJECTS
+- API Integration Blueprint: Created standardized post-sales developer documentation.
+- Automated Triage Routing: Configured internal ticketing systems to tag priority issues.
+
+EDUCATION & CERTIFICATIONS
+- B.B.A. in Information Systems
+- Certification: ITIL 4 Foundation Certificate
+
+STRENGTHS
+- Technical Account Management
+- Cross-Functional Communication

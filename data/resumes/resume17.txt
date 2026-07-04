@@ -1,0 +1,30 @@
+Dr. K. Srinivasan
+NLP Research Scientist
+Location: Bangalore | Contact: srinivasan.k@labmail.org | Phone: +91 9445566778
+
+Technical Domain Specializations:
+- Computational Linguistics
+- Transformer-Based Machine Translation
+- Low-Resource Language Tokenization
+
+Professional Appointment:
+- Senior Researcher (6-Year Tenure, Bangalore Research Lab)
+  Core duties centered around deep learning model design, linguistic pipeline tokenizations, 
+  and inference latency reduction research.
+
+Technical Stack Verified:
+PyTorch, Hugging Face Transformers, Python, NumPy, C++, Triton, Docker, Git.
+
+Engineered Systems & Architectural Implementations:
+- System A: Indic-Language Translation Model - Implemented optimized tokenizers 
+  and encoder architectures optimized for Dravidian semantic structures.
+- System B: Low-Latency Inference Pipeline - Constructed a custom quantization engine 
+  saving memory usage margins across edge device chips.
+
+Academic Credentials:
+- Degree: Ph.D. in Computer Science (Natural Language Processing)
+- Professional Board Certification: NVIDIA Certified Deep Learning Instructor
+
+Core Strengths:
+- Deep Learning Architecture Optimization
+- Statistical Natural Language Processing

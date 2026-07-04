@@ -1,0 +1,26 @@
+ELENA ROSTOVA
+Cybersecurity Strategist bridging the gap between enterprise risk management and technical defense.
+Mumbai | elena.r@cybersecure.org | +91 8877665544
+
+EXECUTIVE PROFILE
+Results-driven Security Engineer with 4 years of experience. Expert in threat modeling 
+(STRIDE, PASTA), network penetration testing, and incident response frameworks. 
+Specialized in building production-grade DevSecOps security assessment gates.
+
+CORE COMPETENCIES
+- Application Security Testing
+- Threat Vector Analysis
+- Identity & Access Management
+
+CHRONICLE OF EXPERIENCE
+- Information Security Analyst, Mumbai (4 Years Core Cybersecurity Experience)
+  Led the development of internal vulnerability management tooling, focusing on low-false-positive 
+  static code analysis integrations.
+
+INNOVATION PROJECTS
+- Zero-Trust Network Architecture: Revolutionized internal access control protocols.
+- Automated Phishing Triage Engine: Reduced incident management response times via automated classification.
+
+EDUCATION & VALIDATION
+- B.Tech (Computer Science & Engineering)
+- Certified Information Systems Security Professional (CISSP)

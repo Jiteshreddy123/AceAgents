@@ -1,0 +1,39 @@
+Name: Sneha keerthika
+
+Email: sneha.keerthika@gmail.com
+
+Phone: +91 9845000211
+
+Location: Kerala
+
+Role:
+Machine Data Engineer
+
+Experience:
+15 Years
+
+Education:
+B.Tech Artificial Intelligence
+
+Skills:
+Python
+FastAPI
+AWS
+Docker
+LangChain
+LangGraph
+SQL
+Git
+TensorFlow
+
+Projects:
+1. Recruitment AI using LangGraph
+2. AI Interview Assistant
+
+Certifications:
+AWS Developer Associate
+
+Strengths:
+Machine Learning
+Prompt Engineering
+Backend APIs

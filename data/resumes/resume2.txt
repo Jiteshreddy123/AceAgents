@@ -1,0 +1,39 @@
+Name: Sneha Reddy
+
+Email: sneha.reddy@gmail.com
+
+Phone: +91 9845000001
+
+Location: Bangalore
+
+Role:
+Machine Learning Engineer
+
+Experience:
+5 Years
+
+Education:
+B.Tech Artificial Intelligence
+
+Skills:
+Python
+FastAPI
+AWS
+Docker
+LangChain
+LangGraph
+SQL
+Git
+TensorFlow
+
+Projects:
+1. Recruitment AI using LangGraph
+2. AI Interview Assistant
+
+Certifications:
+AWS Developer Associate
+
+Strengths:
+Machine Learning
+Prompt Engineering
+Backend APIs

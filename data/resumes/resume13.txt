@@ -1,0 +1,28 @@
+Priya Nair
+Embedded Systems Engineer | Thiruvananthapuram | priya.nair@firmware.in | +91 9944332211
+
+AREAS OF EXPERTISE
+
+Firmware Architecture & Hardware Integration
+- 3 years designing safety-critical embedded systems applications.
+- Expertise in building peripheral driver layers with C and bare-metal microcontrollers.
+- Specialized in modern low-power hardware optimization techniques.
+
+Real-Time Operating Systems (RTOS)
+- Ported and configured complex multithreaded environments using FreeRTOS.
+- Maintained strict timing constraints on hardware resource allocation tasks.
+
+Communication Protocols & Hardware Debugging
+- Developed low-level driver abstractions for I2C, SPI, UART, and CAN bus.
+- Isolated cross-talk and transmission anomalies using logic analyzers and oscilloscopes.
+
+WORK HISTORY
+- Firmware Developer – Thiruvananthapuram (3 Years)
+
+PROJECTS
+- Autonomous Telemetry Module
+- Connected Biomedical Sensor Array
+
+EDUCATION & CREDENTIALS
+- B.Tech (Electrical & Electronics Engineering)
+- Certified Embedded Systems Professional (CDAC)

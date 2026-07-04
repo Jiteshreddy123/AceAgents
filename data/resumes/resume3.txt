@@ -1,0 +1,39 @@
+Name: Arjun Kumar
+
+Email: arjun.kumar@gmail.com
+
+Phone: +91 9988776611
+
+Location: Pune
+
+Role:
+AI Engineer
+
+Experience:
+3 Years
+
+Education:
+B.Tech Information Technology
+
+Skills:
+Python
+FastAPI
+Docker
+AWS
+SQL
+LangChain
+Git
+REST APIs
+Redis
+
+Projects:
+1. AI Document Search
+2. HR Resume Analyzer
+
+Certifications:
+Microsoft Azure AI Engineer
+
+Strengths:
+AI Backend
+Search Systems
+Vector Databases

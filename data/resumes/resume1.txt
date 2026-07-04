@@ -1,0 +1,42 @@
+Name: Rahul Sharma
+
+Email: rahul.sharma@gmail.com
+
+Phone: +91 9876543210
+
+Location: Hyderabad
+
+Role:
+AI Software Engineer
+
+Experience:
+4 Years
+
+Education:
+B.Tech Computer Science
+JNTUH University
+
+Skills:
+Python
+FastAPI
+Docker
+AWS
+SQL
+LangChain
+LangGraph
+Git
+REST APIs
+MongoDB
+
+Projects:
+1. AI Resume Screening System using LangChain, ChromaDB and OpenAI
+2. Customer Support AI Chatbot using FastAPI and Docker
+
+Certifications:
+AWS Cloud Practitioner
+Google Generative AI
+
+Strengths:
+Backend Development
+LLM Applications
+Cloud Deployment

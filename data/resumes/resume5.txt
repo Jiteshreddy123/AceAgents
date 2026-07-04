@@ -1,0 +1,39 @@
+Name: Aditya Verma
+
+Email: aditya.verma@gmail.com
+
+Phone: +91 9812345678
+
+Location: Hyderabad
+
+Role:
+Backend AI Engineer
+
+Experience:
+5 Years
+
+Education:
+B.Tech CSE
+
+Skills:
+Python
+FastAPI
+Docker
+AWS
+SQL
+LangChain
+LangGraph
+Git
+REST APIs
+Kubernetes
+
+Projects:
+1. AI Hiring Platform
+2. Document Intelligence System
+
+Certifications:
+Docker Certified Associate
+
+Strengths:
+Scalable AI Systems
+Cloud Deployment

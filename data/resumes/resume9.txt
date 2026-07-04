@@ -1,0 +1,29 @@
+SARAH JENKINS
+Bangalore, India | +91 9876543210 | sarah.jenkins@email.com
+
+PROFESSIONAL SUMMARY
+Data Engineer with 5 years of experience specializing in big data pipelines, 
+real-time streaming, and cloud data warehousing. Proven track record in building 
+scalable ETL workflows and optimizing query performance.
+
+TECHNICAL SKILLS
+- Languages & Frameworks: PySpark, Scala, Apache Flink, Airflow
+- DevOps & Cloud: Kubernetes, GCP, Terraform
+- Data & Caching: PostgreSQL, BigQuery, Snowflake
+
+PROFESSIONAL EXPERIENCE
+Senior Data Engineer | TechCorp Solutions, Bangalore | 2021 – Present
+- Architected and deployed production-ready data pipelines using PySpark and Airflow.
+- Designed enterprise data lakes leveraging advanced cloud warehousing solutions.
+
+PROJECTS
+- Real-Time Fraud Detection: Built an intelligent streaming system for transaction monitoring.
+- E-Commerce Analytics Engine: Developed an automated aggregation pipeline to evaluate user behavior.
+
+EDUCATION & CERTIFICATIONS
+- M.Tech in Computer Science
+- Certification: Google Cloud Professional Data Engineer
+
+STRENGTHS
+- Real-Time Stream Processing
+- Cloud Data Architecture

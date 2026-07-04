@@ -1,0 +1,39 @@
+Name: Meera Nair
+
+Email: meera.nair@gmail.com
+
+Phone: +91 9988001122
+
+Location: Chennai
+
+Role:
+Software Engineer
+
+Experience:
+4 Years
+
+Education:
+M.Tech Computer Science
+
+Skills:
+Python
+FastAPI
+Docker
+AWS
+LangChain
+LangGraph
+SQL
+Git
+PostgreSQL
+
+Projects:
+1. Legal AI Assistant
+2. Enterprise Chatbot
+
+Certifications:
+AWS Solutions Architect
+
+Strengths:
+Cloud
+LLMs
+Backend Architecture

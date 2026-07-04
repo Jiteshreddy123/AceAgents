@@ -1,0 +1,37 @@
+Name: Aditya 
+
+Email: adityanorm.verma@gmail.com
+
+Phone: +91 9812345628
+
+Location: Nandyal
+
+Role:
+Backend DB Engineer
+
+Experience:
+2 Years
+
+Education:
+B.Tech CSD
+
+Skills:
+Python
+FastAPI
+Docker
+AWS
+SQL
+Git
+REST APIs
+
+
+Projects:
+1. AI Hiring Platform
+2. Document Intelligence System
+
+Certifications:
+Docker Certified Associate
+
+Strengths:
+Scalable AI Systems
+Cloud Deployment

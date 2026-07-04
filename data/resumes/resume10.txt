@@ -1,0 +1,25 @@
+# David Chen
+**DevOps Architect**  
+`Hyderabad` | `+91 9123456789` | `david.chen@opsmail.net`
+
+## 🚀 Core Strengths
+* Infrastructure as Code
+* Continuous Integration/Deployment
+* Site Reliability Engineering
+
+## 🛠 Technical Stack
+* **Core:** Go, Bash, Python
+* **Infra:** AWS, Terraform, Ansible, Jenkins
+* **Data:** Prometheus, Grafana, ELK Stack
+
+## 💼 Experience
+### Principal DevOps Engineer (7 Years)
+Focus areas include designing high-availability multi-region cloud infrastructures and integrating automated security compliance pipelines.
+
+## 📁 Key Projects
+1. **Zero-Downtime Migration:** Seamless hybrid-cloud transition strategy for legacy financial applications.
+2. **Automated K8s Scaling:** Custom autoscaling operator built to manage unpredictable e-commerce traffic spikes.
+
+## 🎓 Education & Credentials
+* **B.E.** — Electronics & Communication Engineering
+* **Certified** — AWS Certified Solutions Architect – Professional
