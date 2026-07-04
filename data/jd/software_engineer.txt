@@ -1,0 +1,28 @@
+Role: AI Software Engineer
+
+Required Skills:
+Python
+FastAPI
+Docker
+AWS
+SQL
+LangChain
+LangGraph
+REST API
+Git
+
+Experience:
+2-5 Years
+
+Education:
+Bachelor's Degree in Computer Science
+
+Responsibilities:
+
+Develop AI applications
+
+Deploy APIs
+
+Work with LLMs
+
+Collaborate with engineering team

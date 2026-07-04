@@ -1,0 +1,28 @@
+MARCUS VANCE
+Role: Full Stack Developer
+Contact: +91 7766554433 | marcus.v@devportfolio.io
+
+================================================================================
+FEATURED WORK PORTFOLIO
+================================================================================
+
+01 / Micro-Frontend SaaS Platform
+- Role: Lead UI Architect
+- Tech Stack: React, TypeScript, Node.js, GraphQL
+- Summary: Engineered a highly modular dashboard interface designed to split, load, 
+  and render independent module bundles based on subscription status.
+
+02 / Distributed Inventory System
+- Role: Backend Engineer
+- Tech Stack: Java, Spring Boot, Kafka, MongoDB
+- Summary: Created an event-driven inventory synchronization system, significantly 
+  cutting down transactional concurrency bottlenecks across physical warehouses.
+
+================================================================================
+PROFESSIONAL BACKGROUND
+================================================================================
+- Experience: 6 Years as a Full Stack Engineer in Chennai.
+- Core Toolkit: Next.js, Docker, RESTful Design.
+- Education: MCA (Master of Computer Applications).
+- Credential: Professional Scrum Master (PSM I).
+- Strengths: System Modularization, Event-Driven Backend Architecture.

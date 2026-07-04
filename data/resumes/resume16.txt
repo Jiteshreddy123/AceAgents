@@ -1,0 +1,27 @@
+--------------------------------------------------------------------------------
+ANANYA HEGDE | QA Automation Lead (5 Years Experience)
+Delhi NCR | +91 7654321098 | ananya.hegde@qaengine.net
+--------------------------------------------------------------------------------
+
+[CONTACT & SKILLS]              [PROFESSIONAL PROFILE]
+
+Location: Delhi NCR, India      SUMMARY
+Phone: +91 7654321098           Specialized QA Lead focusing heavily on Behavior 
+Email: ananya.hegde@qaengine.net Driven Development automation and load performance. 
+                                Experienced in taking manual regression suites 
+CORE TOOLKIT                    and building robust programmatic assertions.
+- Selenium WebDriver
+- Java / TestNG                 EXPERIENCE
+- Playwright & JavaScript       - QA Lead (Noida, 5 Years)
+- Cucumber BDD                    Built and maintained cross-browser automation 
+- JMeter                          framework components integrated directly into CI.
+- Jenkins CI/CD
+                                KEY PROJECTS
+CERTIFICATION                   - Parallel Execution Architecture: Reduced pipeline 
+- ISTQB Advanced Technical Test   testing execution runtime limits by 60%.
+  Analyst                       - Core API Performance Suite: Programmatic end-to-end 
+                                  load profile evaluations for high-traffic checkouts.
+STRENGTHS
+- Framework Architecture Design EDUCATION
+- Continuous Automation Testing - B.Tech in Computer Science
+--------------------------------------------------------------------------------

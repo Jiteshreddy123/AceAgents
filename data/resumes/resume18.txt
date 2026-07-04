@@ -1,0 +1,22 @@
+VIKRAM ADITYA — Product Manager (4 YOE)
+Mumbai | +91 8112233445 | vikram.a@startuphustle.io
+
+TL;DR:
+Technical Product Manager. 4 years spent defining growth product metrics, gathering user stories, 
+and driving agile release cycles. Strong background in wireframing and product telemetry.
+
+What I Do Best:
+- Conversion Rate Optimization (CRO)
+- Data-Backed Feature Prioritization
+
+My Tech Stack:
+[Mixpanel] [Jira] [Confluence] [Figma] [SQL] [Optimizely] [Notion] [Asana] [Google Analytics]
+
+Shipped Products:
+- One-Click Onboarding Funnel: Reworked the application flow, improving conversion trends by 35%.
+- Referral Rewards Engine: An in-app growth loop mechanic that scaled organic acquisition by 3x.
+
+Credentials:
+- MBA (Product Management & Strategy)
+- Certified Scrum Product Owner (CSPO)
+

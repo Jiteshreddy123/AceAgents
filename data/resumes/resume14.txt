@@ -1,0 +1,22 @@
+ROHAN DESHMUKH
+UI/UX Engineer based in Noida
+p: +91 8899001122 | e: rohan.d@designsystems.co
+
+THE SHORT STORY
+I am a Frontend Engineer with 4 years of hands-on experience building design systems, 
+optimizing client-side rendering bottlenecks, and delivering accessible user interfaces.
+
+MY STRENGTHS
+- Design Token Architecture
+- Web Accessibility (WCAG 2.1)
+
+THE TOOLBOX
+Vue.js * Nuxt * TailwindCSS * Figma * Webpack * Vitest * Storybook * SASS * Jest
+
+PROUD MOMENTS (PROJECTS)
+- Global Design System: Transforming visual design guidelines into a standardized component ecosystem.
+- FinTech Dashboard Accessibility: Making complex charts usable for assistive screen reader programs.
+
+BACKGROUND
+- B.Sc. in Animation and Digital Media
+- Certified Web Accessibility Specialist (IAAP WAS)

@@ -1,0 +1,30 @@
+Nisha Fernandes
+Network Infrastructure Engineer
+Location: Chennai | Contact: nisha.f@net-ops.net | Phone: +91 8223344556
+
+Technical Domain Specializations:
+- Enterprise Core Routing & Switching
+- Software-Defined Networking (SDN)
+- Network Security & Perimeter Firewalls
+
+Professional Appointment:
+- Infrastructure Engineer (5-Year Tenure, Telecom Corp Chennai)
+  Core duties centered around data center switch configurations, dynamic protocol tuning, 
+  and hardware performance engineering.
+
+Technical Stack Verified:
+Cisco IOS-XE, Junos OS, Wireshark, BGP/OSPF protocols, Python, Ansible, Linux CLI.
+
+Engineered Systems & Architectural Implementations:
+- System A: Dual-Homed Data Center Fabric - Co-designed a highly redundant leaf-spine 
+  architecture minimizing single points of hardware failure.
+- System B: Automated Switch Provisioning - Wrote a Python and Ansible codebase to 
+  deploy security patch rules dynamically across 120 remote branch routers.
+
+Academic Credentials:
+- Degree: B.Tech in Electronics & Telecommunication Engineering
+- Professional Board Certification: Cisco Certified Network Professional (CCNP Enterprise)
+
+Core Strengths:
+- Network Topology Optimization
+- Automated Infrastructure Provisioning

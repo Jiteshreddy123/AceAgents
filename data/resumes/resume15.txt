@@ -1,0 +1,31 @@
+AMITABH SHARMA
+Address: Kolkata, India | Telephone: +91 9543210987 | Email: a.sharma@consultingcorp.com
+
+Professional Objective
+Dedicated IT Professional seeking to leverage 8 years of experience as a Database Administrator 
+to deliver robust database management systems and high-availability disaster recovery implementations.
+
+Experience Record
+Senior Oracle DBA | Kolkata, India | 2018 - Present
+Responsible for building backup strategies, managing relational storage architectures, and 
+integrating multi-node high-availability database clusters into existing banking networks.
+
+Technical Qualifications
+- Operating Environments: Red Hat Enterprise Linux, Oracle Solaris
+- Programming: PL/SQL, Unix Shell Scripting, Python
+- Database Systems: Oracle RAC, Microsoft SQL Server, MySQL
+- Version Control & Tools: Git, Oracle Enterprise Manager
+
+Project History
+- Project 1: Core Banking Database Migration Strategy
+- Project 2: High-Availability Failover Infrastructure Overhaul
+
+Education
+- Bachelor of Engineering in Information Technology
+
+Professional Certifications
+- Oracle Database Administration Certified Professional (OCP)
+
+Core Strengths
+- High-Availability Cluster Design
+- Database Performance Tuning
