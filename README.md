@@ -59,12 +59,6 @@ RAG Retriever
 Candidate Analyzer
         │
         ▼
-Candidate Comparator
-        │
-        ▼
-Market Trend Analyzer
-        │
-        ▼
 Final Hiring Recommendation
 ```
 
@@ -233,12 +227,6 @@ Candidate Analysis
 Candidate Ranking
             │
             ▼
-Candidate Comparison
-            │
-            ▼
-Market Trend Analysis
-            │
-            ▼
 Hiring Recommendation
 ```
 
@@ -306,11 +294,8 @@ AceAgents:
 * Interview Question Generation
 * AI Resume Improvement Suggestions
 * Candidate Fit Score Dashboard
-* Email Automation
-* Resume Chat Interface
 * Recruiter Analytics Dashboard
 * Multi-language Resume Support
-* Live Job Portal Integration
 
 ---
 
@@ -325,8 +310,7 @@ AceAgents:
 * 🤖 Multi-Agent AI Architecture
 * 📚 Retrieval-Augmented Generation (RAG)
 * 🔍 Semantic Resume Search
-* 📊 Candidate Ranking & Comparison
-* 📈 Live Market Skill Trend Analysis
+* 📊 Candidate Ranking
 * 💡 Explainable Hiring Recommendations
 * ⚡ Modular & Scalable LangGraph Workflow
 * 🚀 Production-ready Architecture for AI Recruitment Assistants
