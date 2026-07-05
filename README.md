@@ -10,7 +10,7 @@ Instead of manually reviewing hundreds of resumes, recruiters simply provide a J
 ## 🎥 Project Demo
 
 📹 **Demo Video (Google Drive):**
-[https://drive.google.com/file/d/XXXXXXXXXXXXXXXX/view?usp=sharing](https://drive.google.com/file/d/XXXXXXXXXXXXXXXX/view?usp=sharing)
+[https://drive.google.com/file/d/XXXXXXXXXXXXXXXX/view?usp=sharing)](https://drive.google.com/file/d/1tfMIclEuXLGseUllI_fjpx956PJvwtT1/view?usp=sharing)
 
 
 
