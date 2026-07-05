@@ -18,7 +18,7 @@ class AgentState(TypedDict):
 
     # Job Description text
     jd_text: str
-
+ 
     # Retrieved candidates from RAG
     retrieved_candidates: List[dict]
 

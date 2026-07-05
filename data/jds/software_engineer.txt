@@ -1,0 +1,20 @@
+Job Title: Senior Full-Stack Engineer (TypeScript & AWS)
+Location: India
+Company: CloudScale Solutions
+
+About Us:
+CloudScale Solutions is a fast-growing B2B SaaS platform helping e-commerce companies optimize their supply chains. We are looking for a Senior Full-Stack Engineer to own the development of our core analytics dashboard.
+
+Your Role:
+As a Senior Full-Stack Engineer, you will design, build, and maintain scalable web applications. You will collaborate closely with product managers and UI/UX designers to translate complex requirements into clean, production-ready code. You will also mentor junior engineers and drive architectural decisions for our cloud infrastructure.
+
+Requirements & Experience:
+- Minimum of 5+ years of professional software engineering experience in a product-driven environment.
+- Proven track record of shipping production-grade web applications.
+- Strong problem-solving skills and experience leading technical projects.
+
+Technical Skills Required:
+- Frontend: React.js, Next.js, TypeScript, TailwindCSS
+- Backend: Node.js, Express, GraphQL
+- Database: PostgreSQL, Redis
+- DevOps/Cloud: Amazon Web Services (AWS) (Lambda, EC2, S3), Docker, CI/CD pipelines

@@ -1,0 +1,21 @@
+Job Title: Technical Product Manager (TPM)
+Location: Austin, TX (On-site)
+Company: NextGen Robotics
+
+Position Overview:
+NextGen Robotics is building the future of automated warehouse logistics. We are searching for a Technical Product Manager to lead our Core Platform team. You will bridge the gap between complex engineering realities and business strategic goals.
+
+What You Will Do:
+- Own the product roadmap, lifecycle, and backlog prioritization for our internal APIs and developer platforms.
+- Write detailed PRDs (Product Requirement Documents) and technical user stories.
+- Act as the primary interface between hardware engineering, software engineering, and customer success teams.
+
+What We Are Looking For:
+- At least 4 years of experience as a Product Manager, Technical Program Manager, or Scrum Master in an agile environment.
+- Prior background as a software engineer or systems architect is highly desirable.
+
+Required Competencies & Tools:
+- Agile Methodologies: Scrum, Kanban
+- Project Management Tools: Jira, Confluence
+- Technical Frameworks: RESTful APIs, Microservices Architecture, System Design basics
+- Product Analytics: Mixpanel, Google Analytics

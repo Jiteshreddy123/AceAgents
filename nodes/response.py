@@ -10,9 +10,14 @@ def response(state: AgentState) -> AgentState:
             "- Rewrite JD\n"
             "- Salary lookup"
         )
+       
+    print("\n")
+    print("=" * 60)
+    print("🤖 ACEAGENTS RESPONSE")
+    print("=" * 60)
 
-    print("\n===== FINAL RESPONSE =====")
     print(state["response"])
-    print("==========================")
+
+    print("=" * 60)
 
     return state
