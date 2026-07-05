@@ -60,9 +60,10 @@ Candidate Analyzer
         │
         ▼
 Final Hiring Recommendation
-```
+---
 
 ---
+
 
 # 🧠 AI Agents
 
